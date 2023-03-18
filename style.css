@@ -1,0 +1,12 @@
+
+html{
+    font-family:Oswald;
+ }
+.title{
+    margin-top: 5rem;
+    margin-left: 0.8rem;
+    padding: 2rem;
+}
+.main{
+    height: auto;
+}
